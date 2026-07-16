@@ -37,6 +37,7 @@ cd mazak
 ## Запуск (в консоли)
 ```bash
 pip3 install rich textual_image
+pip install rich textual_image
 python3 app.py 
 ```
 
