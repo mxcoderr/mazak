@@ -40,6 +40,7 @@ pip3 install rich textual_image
 pip install rich textual_image
 python3 app.py 
 ```
+или запустите в Telegram: @aimazakbot
 
 Затем просто печатайте сообщения и наслаждайтесь ответами новой эры ИИ.
 
